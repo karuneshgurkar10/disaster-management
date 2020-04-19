@@ -2,8 +2,8 @@ This project is bootstrapped with [Create React App](https://github.com/facebook
 
 ### How to run
 
-1. Clone the project `https://github.com/karuneshgurkar10/disaster_management.git`
-2. Move to project `cd disaster_management`
+1. Clone the project `https://github.com/karuneshgurkar10/disaster-management.git`
+2. Move to project `cd disaster-management`
 3. Install dependencies `yarn install`
 4. Start Dev server `yarn start`
 5. Browse http://localhost:3000/
